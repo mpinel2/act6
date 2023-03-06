@@ -1,1 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
+.header {
+    background-color: #04525F;
+    color: #6DDEF5;
+    
+}
+
+.newButton{
+    background-color: #04525F;
+    border: 0.1rem solid #6EDFF6;
+    color:#6EDFF6;
+    border-radius: 1rem;
+    padding: 10px;
+}
+
+.newButton:hover{
+    background-color: #6EDFF6;
+    border: 0.1rem solid #6EDFF6;
+    color:#04525F;
+    border-radius: 1rem;
+    padding: 10px;
+}
+
+
+.newButton-dng{
+    background-color: tomato;
+    border: 0.1rem solid #f78383;
+    color:#f78383;
+    border-radius: 1rem;
+    padding: 10px;
+}
+
+.newButton-dng:hover{
+    background-color: #f78383;
+    border: 0.1rem solid #f78383;
+    color:tomato;
+    border-radius: 1rem;
+    padding: 10px;
+}

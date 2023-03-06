@@ -1,0 +1,21 @@
+.header {
+    background-color: #04525F;
+    color: #6DDEF5;
+    
+}
+
+.newButton{
+    background-color: #04525F;
+    border: 0.1rem solid #6EDFF6;
+    color:#6EDFF6;
+    border-radius: 1rem;
+    padding: 10px;
+}
+
+.newButton:hover{
+    background-color: #6EDFF6;
+    border: 0.1rem solid #6EDFF6;
+    color:#04525F;
+    border-radius: 1rem;
+    padding: 10px;
+}
